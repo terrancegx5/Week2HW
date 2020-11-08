@@ -1,0 +1,12 @@
+/Users/Karma/Projects/temp/temp/bin/Debug/netcoreapp3.1/temp.deps.json
+/Users/Karma/Projects/temp/temp/bin/Debug/netcoreapp3.1/temp.runtimeconfig.json
+/Users/Karma/Projects/temp/temp/bin/Debug/netcoreapp3.1/temp.runtimeconfig.dev.json
+/Users/Karma/Projects/temp/temp/bin/Debug/netcoreapp3.1/temp.dll
+/Users/Karma/Projects/temp/temp/bin/Debug/netcoreapp3.1/temp.pdb
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.csprojAssemblyReference.cache
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.AssemblyInfoInputs.cache
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.AssemblyInfo.cs
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.csproj.CoreCompileInputs.cache
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.dll
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.pdb
+/Users/Karma/Projects/temp/temp/obj/Debug/netcoreapp3.1/temp.genruntimeconfig.cache
